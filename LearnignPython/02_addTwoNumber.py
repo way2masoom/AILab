@@ -1,8 +1,8 @@
 #Program to calculate sum of two number
 print("This program only Accept Integer Values")
 
-num1=int(input('Enter the first Number'))
-num2=int(input('Enter the Second Number'))
+num1=int(input('Enter the first Number : '))
+num2=int(input('Enter the Second Number : '))
 
 #Adding the two Number
 sum=int(num1+num2);
